@@ -1,0 +1,34 @@
+{
+  "name": "forest-void",
+  "displayName": "Forest Void",
+  "description": "A dark, forest-inspired theme for VS Code, focusing on calming greens and deep darks for a pleasant coding experience.",
+  "version": "0.0.1",
+  "publisher": "heygourab",
+  "engines": {
+    "vscode": "^1.99.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "theme",
+    "dark theme",
+    "forest",
+    "void",
+    "green theme",
+    "nature"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/heygourab/forest-void.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Forest Void",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Forest Void-color-theme.json"
+      }
+    ]
+  }
+}
