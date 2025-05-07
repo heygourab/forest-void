@@ -4,6 +4,7 @@
   "description": "A dark, forest-inspired theme for VS Code, focusing on calming greens and deep darks for a pleasant coding experience.",
   "version": "0.0.1",
   "publisher": "heygourab",
+  "license": "MIT",
   "engines": {
     "vscode": "^1.99.0"
   },
